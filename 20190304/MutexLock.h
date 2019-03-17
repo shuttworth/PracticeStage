@@ -27,7 +27,7 @@ private:
 
 };
 
-class MutexLockGuard
+class MutexLockGuard//通过析构函数的自动执行实现自动加解锁
 {
     public:
         MutexLockGuard( MutexLock &mutex)

@@ -20,7 +20,7 @@ void test0()
     ss<<"n1="<<n1<<" n2="<<n2;//
     string line=ss.str();//str接口
     cout<<line<<endl;
-
+                        //字符串的写和反写
     string word;
     int number;
     while(ss>>word>>number,!ss.eof())
@@ -30,7 +30,7 @@ void test0()
     cout<<endl;
 }
 
-string int2str(int number)
+string int2str(int number)//把一个int型的转换成字符串
 {
     ostringstream oss;
     oss<<number;
@@ -48,7 +48,7 @@ void readConfig(const string & file)
     string line;
     while(getline(ifs,line))
     {
-        istringstream iss(line);
+        istringstream iss(line);//天然有空格分割
         iss>>key>>value;
         cout<<key<<"->"<<value<<endl;
     }

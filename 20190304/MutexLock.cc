@@ -19,7 +19,7 @@ MutexLock::~MutexLock()
 
 void MutexLock::lock()
 {
-    pthread_mutex_lock(&_mutex);
+    pthread_mutex_lock(&_mutex);//man 查看都是对指针进行操作
 }
 void MutexLock::unlock()
 {
