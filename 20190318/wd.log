@@ -1,0 +1,15 @@
+1552963166 DEBUG  : this is debug message
+1552963166 INFO  : this is debug message
+1552963166 NOTICE  : this is notice message
+1552963166 WARN  : this is warn message
+1552963166 ERROR  : this is error message
+1552963166 CRIT  : this is crit message
+1552963166 ALERT  : this is alert message
+1552963243 WARN  : this is warn message
+1552963243 ERROR  : this is error message
+1552963243 CRIT  : this is crit message
+1552963243 ALERT  : this is alert message
+1552963536 WARN  : this is warn message
+1552963536 ERROR  : this is error message
+1552963536 CRIT  : this is crit message
+1552963536 ALERT  : this is alert message
