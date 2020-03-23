@@ -3,9 +3,9 @@
 
 #### These codes contain:
 
-#####     Linux Programing
+#####     	Linux Programing
 
-#####     C++ Basic Programmer
+#####     	C++ Basic Programmer
 
-#####     C++ Programing with Netprograming
+#####     	C++ Programing with Netprograming
 
