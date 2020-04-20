@@ -1,0 +1,126 @@
+#include<string>
+#include<vector>
+#include<iostream>
+
+class Product{
+private:
+    std::vector<std::string>  parts;
+public:
+    void Add(std::string part){
+        parts.push_back(part); 
+    }
+
+    void Show(){
+        std::cout << "product building------------" << std::endl;
+        std::vector<std::string>::iterator it;
+        for (it = parts.begin(); it != parts.end(); it++){
+            std::cout << *it << std::endl;
+
+        }
+
+    }
+};
+
+class Builder
+{
+public:
+    virtual void BuildPartA() = 0;
+    virtual void BuildPartB() = 0;
+    virtual Product* GetResult() = 0;
+
+};
+
+
+class ConcreteBulider1:public Builder
+{
+private:
+    Product* product;
+
+public:
+    ConcreteBulider1(){
+        product = new Product();
+    }
+
+    ~ConcreteBulider1(){
+        delete product;
+    }
+
+    void BuildPartA(){
+        product->Add("part A");
+    }
+
+    void BuildPartB(){
+        product->Add("part B");
+    }
+    
+    Product* GetResult(){
+        return product;
+    }
+
+};
+
+class ConcreteBulider2 :public Builder
+{
+private:
+    Product* product;
+
+public:
+    ConcreteBulider2(){
+        product = new Product();
+     }
+    
+    ~ConcreteBulider2(){
+        delete product;
+    }
+
+    void BuildPartA(){
+        product->Add("part X");
+    }
+
+    void BuildPartB(){
+        product->Add("part Y");
+    }
+
+    Product* GetResult(){
+        return product;
+    }
+
+};
+
+class Director
+{
+public:
+    void Construct(Builder* builder){
+        builder->BuildPartA();
+        builder->BuildPartB();
+    }
+
+};
+
+
+//Client，客户不知道具体的建造过程。
+int main()
+{
+    Director* director = new Director();
+
+    Builder* builder1 = new ConcreteBulider1();
+    Builder* builder2 = new ConcreteBulider2();
+
+    std::cout << "指挥者用ConcreteBuilder1的方法建造产品：" << std::endl;
+    director->Construct(builder1);
+    Product* p1 = builder1->GetResult();
+    p1->Show();
+    std::cout << std::endl;
+
+    std::cout << "指挥者用ConcreteBuilder2的方法建造产品：" << std::endl;
+    director->Construct(builder2);
+    Product* p2 = builder2->GetResult();
+    p2->Show();
+    std::cout << std::endl;
+
+    delete director;
+    /* delete builder1; */
+    /* delete builder2; */
+
+    system("pause");
+}
