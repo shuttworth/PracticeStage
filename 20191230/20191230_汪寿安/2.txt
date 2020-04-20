@@ -1,3 +1,0 @@
-echo > example
-chmod 644 example
-chmod 666 example

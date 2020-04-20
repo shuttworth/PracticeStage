@@ -1,4 +1,0 @@
-1553005880 WARN mycat : testLogger.cc-test3-13this is warn msg
-1553005880 INFO mycat : testLogger.cc-test3-14this is info msg
-1553005880 ERROR mycat : testLogger.cc-test3-15this is error msg
-1553005880 DEBUG mycat : testLogger.cc-test3-16this is debug msg

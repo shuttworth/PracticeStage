@@ -1,3 +1,0 @@
-2019-02-01 15:44:33,904 MyCategory [WARN] [src/TestMylogger.cc:test2:39] this is a error message!
-2019-02-01 15:44:33,904 MyCategory [INFO] [src/TestMylogger.cc:test2:40] this is a error message!
-2019-02-01 15:44:33,904 MyCategory [DEBUG] [src/TestMylogger.cc:test2:41] this is a error message!
