@@ -1,0 +1,1000 @@
+ 1009  ll
+ 1010  vim CharArray.cc 
+ 1011  vim functionObject.cc 
+ 1012  vim CharArray.cc 
+ 1013  ll
+ 1014  mkdir 20190321
+ 1015  ll
+ 1016  vim 20190321
+ 1017  cd  20190321
+ 1018  ll
+ 1019  clear
+ 1020  vim CharArray.cc
+ 1021  g++ CharArray.cc
+ 1022  ./a.out 
+ 1023  vim CharArray.cc
+ 1024  -
+ 1025  ll
+ 1026  cd ..
+ 1027  cd 20190320
+ 1028  ll
+ 1029  cp  Complex2.cc ~/20190321
+ 1030  cd ~/20190321
+ 1031  ll
+ 1032  vim c
+ 1033  vim C
+ 1034  vim Complex2.cc q
+ 1035  vim Complex2.cc
+ 1036  ll
+ 1037  vim Complex2.cc 
+ 1038  ll
+ 1039  vim arrow.cc
+ 1040  mv arrow.cc myarrow.cc 
+ 1041  ll
+ 1042  vim a
+ 1043  vim arrow.cc 
+ 1044  ll
+ 1045  rm a
+ 1046  rm a.out 
+ 1047  ll
+ 1048  cd 20190321
+ 1049  ll
+ 1050  cd 20190321
+ 1051  ll
+ 1052  cd ..
+ 1053  mkdir 20190322
+ 1054  ll
+ 1055  cd 20190322
+ 1056  ll
+ 1057  clear
+ 1058  ll
+ 1059  vim Line.cc
+ 1060  vim Line.h
+ 1061  vim Line.cc
+ 1062  ll
+ 1063  vim Singleton.cc 
+ 1064  g++ Singleton.cc 
+ 1065  ./a.out 
+ 1066  vim Singleton.cc 
+ 1067  ll
+ 1068  vim autoReleaseSingleton1.cc
+ 1069  ll
+ 1070  cd 20190322
+ 1071  ll
+ 1072  vim autoReleaseSingleton1.cc
+ 1073  vim autoReleaseSingleton2.cc
+ 1074  g++ autoReleaseSingleton2.cc
+ 1075  ./a.out 
+ 1076  vim autoReleaseSingleton2.cc
+ 1077  vim autoReleaseSingleton3.cc
+ 1078  vim autoReleaseSingleton2.cc
+ 1079  vim autoReleaseSingleton3.cc
+ 1080  ll
+ 1081  vim cow_string.cc
+ 1082  ll
+ 1083  vim atexit.cc
+ 1084  ll
+ 1085  vim cow_string.cc
+ 1086  ll
+ 1087  cd ..
+ 1088  ll
+ 1089  cd 20190320
+ 1090  ll
+ 1091  cd ..
+ 1092  cd 20190319
+ 1093  ll
+ 1094  vim testMylogger.cc 
+ 1095  cd ..
+ 1096  cd 20190318
+ 1097  ll
+ 1098  vim wordstatics2.cc 
+ 1099  cd ..
+ 1100  ll
+ 1101  cd 20190317
+ 1102  ll
+ 1103  vim MutexLock.
+ 1104  vim MutexLock.cc
+ 1105  vim MutexLock.h
+ 1106  ll
+ 1107  vim Condition.cc 
+ 1108  vim Condition.h
+ 1109  ll
+ 1110  vim testThread.cc 
+ 1111  cd ..
+ 1112  ll
+ 1113  cd PracticeStage
+ 1114  ll
+ 1115  :q
+ 1116  cd ..
+ 1117  ll
+ 1118  cd 20190317
+ 1119  ll
+ 1120  vim MutexLock.h
+ 1121  vim MutexLock.cc
+ 1122  vim Condition.h
+ 1123  vim Condition.cc
+ 1124  vim testThread.cc 
+ 1125  ll
+ 1126  cd ..
+ 1127  ll
+ 1128  cd 20190318
+ 1129  ll
+ 1130  clear
+ 1131  ll
+ 1132  vim log4cppTest.cc
+ 1133  mkdir tryagain
+ 1134  cd tryagain/
+ 1135  ll
+ 1136  vim wordstatics3.cc
+ 1137  cd 20190318
+ 1138  ll
+ 1139  vim wordstatics.cc
+ 1140  ll
+ 1141  cd 20190322
+ 1142  ll
+ 1143  cd ..
+ 1144  ll
+ 1145  mkdir 20190323
+ 1146  cd 20190323
+ 1147  ll
+ 1148  cd -
+ 1149  pwd
+ 1150  ll
+ 1151  cd 20190324
+ 1152  ll
+ 1153  vim cow_string2.cc 
+ 1154  g++ cow_string2.cc 
+ 1155  ./a.out 
+ 1156  ll
+ 1157  cd 
+ 1158  cd /usr/share/vim/vimfiles
+ 1159  ll
+ 1160  vim template.cc
+ 1161  touch template.cc
+ 1162  sudo touch template.cc
+ 1163  ll
+ 1164  sudo vim template.cc 
+ 1165  sudo vim -rw-r--r-- 1 root root    0 Mar 26 14:43 template.cc
+ 1166  sudo vim /etc/vimrc
+ 1167  cd /
+ 1168  ll
+ 1169  cd etc
+ 1170  ll
+ 1171  sudo vim vimrc
+ 1172  cd/usr/share/vim/vimfiles
+ 1173  cd /usr/share/vim/vimfiles
+ 1174  ll
+ 1175  vim vimrc
+ 1176  cd /
+ 1177  cd etc
+ 1178  ll
+ 1179  cd vimrc
+ 1180  cd vim
+ 1181  ll
+ 1182  vim vimrc
+ 1183  ll
+ 1184  cd 20190328
+ 1185  ll
+ 1186  cd stl/
+ 1187  ll
+ 1188  rm a.out 
+ 1189  ll
+ 1190  vim sequenceContainer.cc
+ 1191  ll
+ 1192  cd 20190328
+ 1193  cd stl/
+ 1194  ll
+ 1195  vim sequenceContainer2.cc 
+ 1196  ll
+ 1197  cd 20190328
+ 1198  l
+ 1199  ll
+ 1200  cd stl/
+ 1201  ll
+ 1202  vim sequenceContainer.cc 
+ 1203  ll
+ 1204  cd 20190328
+ 1205  ll
+ 1206  cd stl/
+ 1207  ll
+ 1208  vim sequenceContainer2.cc 
+ 1209  g++ sequenceContainer2.cc 
+ 1210  ./a.out 
+ 1211  vim sequenceContainer2.cc 
+ 1212  g++ sequenceContainer2.cc 
+ 1213  ./a.out 
+ 1214  vim sequenceContainer2.cc 
+ 1215  g++ sequenceContainer2.cc 
+ 1216  ./a.out 
+ 1217  vim sequenceContainer2.cc 
+ 1218  man insert
+ 1219  man 2 insert
+ 1220  vim sequenceContainer2.cc 
+ 1221  g++ sequenceContainer2.cc 
+ 1222  ./a.out 
+ 1223  vim sequenceContainer2.cc 
+ 1224  g++ sequenceContainer2.cc 
+ 1225  ./a.out 
+ 1226  vim sequenceContainer2.cc 
+ 1227  g++ sequenceContainer2.cc 
+ 1228  ./a.out 
+ 1229  vim sequenceContainer2.cc 
+ 1230  g++ sequenceContainer2.cc 
+ 1231  ./a.out 
+ 1232  vim sequenceContainer2.cc 
+ 1233  g++ sequenceContainer2.cc 
+ 1234  ./a.out 
+ 1235  vim sequenceContainer2.cc 
+ 1236  g++ sequenceContainer2.cc 
+ 1237  ./a.out 
+ 1238  vim sequenceContainer2.cc 
+ 1239  ll
+ 1240  cd 20190329
+ 1241  ll
+ 1242  rm a.out 
+ 1243  ll
+ 1244  vim se
+ 1245  vim set.cc 
+ 1246  ll
+ 1247  cd 20190331
+ 1248  ll
+ 1249  cd ..
+ 1250  cd 20190329
+ 1251  ll
+ 1252  vim sequenceContainer.cc 
+ 1253  ll
+ 1254  cd 20190401
+ 1255  mkdir 20190401
+ 1256  ll
+ 1257  cd 20190401
+ 1258  ll
+ 1259  cd ..
+ 1260  cd 20190331
+ 1261  ll
+ 1262  cd ..
+ 1263  rm -r 20190331
+ 1264  ll
+ 1265  cd 20190329
+ 1266  ll
+ 1267  rm a.out 
+ 1268  ll
+ 1269  clear
+ 1270  ll
+ 1271  vim se
+ 1272  vim set.cc 
+ 1273  ll
+ 1274  cp set.cc ~/20190401
+ 1275  cd ..
+ 1276  cd 20190401
+ 1277  ll
+ 1278  touch set2.cc
+ 1279  vim set2.cc 
+ 1280  ll
+ 1281  vim set.cc 
+ 1282  g++ set.cc -std=c++11 
+ 1283  ./a.out 
+ 1284  vim set.cc 
+ 1285  ll
+ 1286  vim set2.cc 
+ 1287  ll
+ 1288  vim set2.cc 
+ 1289  ll
+ 1290  cd 20190401
+ 1291  ll
+ 1292  vim set.cc 
+ 1293  ll
+ 1294  cd 20190402
+ 1295  ll
+ 1296  vim set2.cc 
+ 1297  g++ set2.cc 
+ 1298  ./a.out 
+ 1299  vim set2.cc 
+ 1300  ll
+ 1301  vim map.cc 
+ 1302  g++ map.cc 
+ 1303  ./a.out 
+ 1304  vim map.cc 
+ 1305  g++ map.cc 
+ 1306  ./a.out 
+ 1307  vim map.cc 
+ 1308  g++ map.cc 
+ 1309  ./a.out 
+ 1310  vim map.cc 
+ 1311  ll
+ 1312  vim multiset.cc 
+ 1313  ll
+ 1314  cd 20190402
+ 1315  ll
+ 1316  vim multiset.cc
+ 1317  g++ multiset.cc
+ 1318  ./a.out 
+ 1319  vim multiset.cc
+ 1320  vim multimap.cc.cc
+ 1321  vim multimap.cc
+ 1322  g++ multimap.cc
+ 1323  ./a.out 
+ 1324  vim multimap.cc
+ 1325  ll
+ 1326  cd 20190403
+ 1327  ll
+ 1328  cd ..
+ 1329  cd 20190402
+ 1330  ll
+ 1331  mv priority_que.cc ~/20190403
+ 1332  ll
+ 1333  cd ..
+ 1334  cd ~/20190403
+ 1335  ll
+ 1336  vim unordered_set
+ 1337  ll
+ 1338  vim unordered_set.cc 
+ 1339  ifconfig
+ 1340  ll
+ 1341  cd 20190403
+ 1342  ll
+ 1343  vim unordered_set.cc 
+ 1344  ll
+ 1345  cd InterviewProject
+ 1346  ll
+ 1347  cd ftpserver/
+ 1348  ll
+ 1349  make
+ 1350  vim head.h 
+ 1351  make
+ 1352  ll
+ 1353  ./thread_pool_server 192.168.136.128 2000
+ 1354  ./thread_pool_server
+ 1355  vim ma
+ 1356  vim main.c 
+ 1357  vim tcp_init.c 
+ 1358  ll
+ 1359  vim main.c 
+ 1360  vim factory.
+ 1361  vim factory.c
+ 1362  vim head.h 
+ 1363  vim tcp_init.c
+ 1364  vim downfile.c
+ 1365  vim factory.h
+ 1366  vim head.h
+ 1367  viminsert.c
+ 1368  vim insert.c
+ 1369  vim manage.c
+ 1370  ./thread_pool_server 192.168.136.128 2000 5 100
+ 1371  ll
+ 1372  vim main.c 
+ 1373  ll
+ 1374  cd InterviewProject
+ 1375  ll
+ 1376  cd client/
+ 1377  ll
+ 1378  vim Makefile 
+ 1379  make
+ 1380  ll
+ 1381  vim Makefile 
+ 1382  make
+ 1383  vim head.h 
+ 1384  vim upfile.c 
+ 1385  ll
+ 1386  make
+ 1387  sudo vim /usr/include/func.h
+ 1388  make
+ 1389  ll
+ 1390  vim downfile.c 
+ 1391  ll
+ 1392  cd ..
+ 1393  ll
+ 1394  rm server/
+ 1395  rm server -r
+ 1396  ll
+ 1397  cd client/
+ 1398  ll
+ 1399  vim head.h 
+ 1400  vim Makefile 
+ 1401  make
+ 1402  ll
+ 1403  vim downfile.c 
+ 1404  vim send_n.c 
+ 1405  vim downfile.c 
+ 1406  vim Makefile 
+ 1407  make
+ 1408  ll
+ 1409  vim send_n.c 
+ 1410  vim upfile.c 
+ 1411  gcc *.c -o test
+ 1412  vim downfile.c 
+ 1413  vim head.h 
+ 1414  make
+ 1415  ll
+ 1416  ./test 
+ 1417  vim Makefile 
+ 1418  ll
+ 1419  vim head.h 
+ 1420  ll
+ 1421  ./test 192.168.136.128 2000
+ 1422  ./test 192.168.136.128 2000 5 100
+ 1423  ./test 192.168.136.128 2000
+ 1424  ll
+ 1425  cd InterviewProject
+ 1426  ll
+ 1427  cd code/
+ 1428  ll
+ 1429  cd InterviewProject
+ 1430  ll
+ 1431  cd code/
+ 1432  ll
+ 1433  vim QuickSort.cc
+ 1434  g++ QuickSort.cc
+ 1435  ./a.out 
+ 1436  vim QuickSort.cc
+ 1437  g++ QuickSort.cc
+ 1438  ./a.out 
+ 1439  vim QuickSort.cc
+ 1440  g++ QuickSort.cc
+ 1441  ./a.out 
+ 1442  vim QuickSort.cc
+ 1443  g++ QuickSort.cc
+ 1444  ./a.out 
+ 1445  vim QuickSort.cc
+ 1446  g++ QuickSort.cc
+ 1447  ./a.out 
+ 1448  vim QuickSort.cc
+ 1449  g++ QuickSort.cc
+ 1450  ./a.out 
+ 1451  vim QuickSort.cc
+ 1452  g++ QuickSort.cc
+ 1453  ./a.out 
+ 1454  vim QuickSort.cc
+ 1455  g++ QuickSort.cc
+ 1456  ./a.out 
+ 1457  vim QuickSort.cc
+ 1458  ll
+ 1459  cd InterviewProject/
+ 1460  cd code/
+ 1461  ll
+ 1462  vim ordertable1.cc 
+ 1463  g++ ordertable1.cc 
+ 1464  ./a.out 
+ 1465  vim ordertable1.cc 
+ 1466  g++ ordertable1.cc 
+ 1467  ./a.out 
+ 1468  vim ordertable1.cc 
+ 1469  g++ ordertable1.cc 
+ 1470  ./a.out 
+ 1471  vim ordertable1.cc 
+ 1472  g++ ordertable1.cc 
+ 1473  ./a.out 
+ 1474  vim ordertable1.cc 
+ 1475  g++ ordertable1.cc 
+ 1476  ./a.out 
+ 1477  vim ordertable1.cc 
+ 1478  g++ ordertable1.cc 
+ 1479  ./a.out 
+ 1480  vim ordertable1.cc 
+ 1481  ll
+ 1482  cd InterviewProject/
+ 1483  ll
+ 1484  cd code/
+ 1485  ll
+ 1486  mv main.cpp 
+ 1487  Order tablell
+ 1488  ll
+ 1489  mv main.cpp ordertable.cc
+ 1490  vim ordertable.cc 
+ 1491  g++ ordertable.cc 
+ 1492  ./a.out 
+ 1493  ll
+ 1494  vim ordertable.cc 
+ 1495  ll
+ 1496  cd InterviewProject
+ 1497  cd code/
+ 1498  ll
+ 1499  vim ordertable.cc 
+ 1500  vim LinearTable.cc 
+ 1501  ll
+ 1502  cd InterviewProject/
+ 1503  cd code/
+ 1504  ll
+ 1505  vim StackQueue1.cc 
+ 1506  g++ StackQueue1.cc 
+ 1507  ./a.out 
+ 1508  vim StackQueue1.cc 
+ 1509  g++ StackQueue1.cc 
+ 1510  ./a.out 
+ 1511  vim StackQueue1.cc 
+ 1512  g++StackQueue1.cc 
+ 1513  g++ StackQueue1.cc 
+ 1514  ./a.out 
+ 1515  g++StackQueue1.cc 
+ 1516  vim StackQueue1.cc 
+ 1517  g++ StackQueue1.cc 
+ 1518  ./a.out 
+ 1519  vim StackQueue1.cc 
+ 1520  ll
+ 1521  vim Chainqueues1.cc 
+ 1522  ll
+ 1523  vim Chainqueues1.cc 
+ 1524  vim string2.cc
+ 1525  ll
+ 1526  cd InterviewProject/
+ 1527  cd code/
+ 1528  ll
+ 1529  vim Chainqueues1.cc
+ 1530  g++ Chainqueues1.cc
+ 1531  ./a.out 
+ 1532  vim Chainqueues1.cc
+ 1533  g++ Chainqueues1.cc
+ 1534  ./a.out 
+ 1535  vim Chainqueues1.cc
+ 1536  ll
+ 1537  vim Fibonacci.cc
+ 1538  g++ Fibonacci.cc
+ 1539  vim Fibonacci.cc
+ 1540  vim Fibonacci1.cc
+ 1541  g++ Fibonacci1.cc
+ 1542  ./a.out 
+ 1543  vim Fibonacci1.cc
+ 1544  ll
+ 1545  rm Fibonacci.cc
+ 1546  vim Fibonacci1.cc
+ 1547  vim BSTree.cc
+ 1548  vim BSTree.cpp
+ 1549  mv BSTree.cc BSTree.cpp
+ 1550  ll
+ 1551  vim BSTree.cpp
+ 1552  mv BSTree.cpp BSTree.cc
+ 1553  ll
+ 1554  vim BSTree1.cc
+ 1555  g++ BSTree1.cc
+ 1556  ./a.out 
+ 1557  vim BSTree1.cc
+ 1558  g++ BSTree1.cc
+ 1559  ./a.out 
+ 1560  vim BSTree1.cc
+ 1561  g++ BSTree1.cc
+ 1562  ./a.out 
+ 1563  vim BSTree1.cc
+ 1564  g++ BSTree1.cc
+ 1565  ./a.out 
+ 1566  vim BSTree1.cc
+ 1567  g++ BSTree1.cc
+ 1568  ./a.out 
+ 1569  vim BSTree1.cc
+ 1570  g++ BSTree1.cc
+ 1571  ./a.out 
+ 1572  g++ BSTree1.cc
+ 1573  ./a.out 
+ 1574  vim BSTree1.cc
+ 1575  g++ BSTree1.cc
+ 1576  ./a.out 
+ 1577  vim BSTree1.cc
+ 1578  clear
+ 1579  ll
+ 1580  vim ClueBTree.cc
+ 1581  ll
+ 1582  vim BSTree.cc
+ 1583  rm BSTree.cc
+ 1584  ll
+ 1585  cd TravelBTree/
+ 1586  cd ..
+ 1587  cd TravelBTree/
+ 1588  ll
+ 1589  g++ main.cpp 
+ 1590  mv main.cpp main.cc
+ 1591  mv queue.cpp queue.cc
+ 1592  mv stack.cpp stack.cc
+ 1593  ll
+ 1594  vim function.h 
+ 1595  vim main.cc 
+ 1596  vim queue.cc 
+ 1597  vim stack.cc 
+ 1598  ll
+ 1599  vim function.h 
+ 1600  ll
+ 1601  cd ..
+ 1602  ll
+ 1603  cd ..
+ 1604  ll
+ 1605  cd client/
+ 1606  ll
+ 1607  vim ll
+ 1608  ll
+ 1609  vim 20190410
+ 1610  cd  20190410
+ 1611  ll
+ 1612  vim map.cc 
+ 1613  cd 20190410
+ 1614  ll
+ 1615  cd ..
+ 1616  cd 20190404
+ 1617  ll
+ 1618  vim unordered_set.cc 
+ 1619  cd ..
+ 1620  cd ~/20190410
+ 1621  ll
+ 1622  vim map.cc 
+ 1623  ll
+ 1624  vim map1.cc 
+ 1625  ll
+ 1626  cd 20190411
+ 1627  ll
+ 1628  vim map1.cc 
+ 1629  g++ map1.cc 
+ 1630  ./a.out 
+ 1631  vim map1.cc 
+ 1632  g++ map1.cc 
+ 1633  ./a.out 
+ 1634  vim map1.cc 
+ 1635  g++ map1.cc 
+ 1636  ./a.out 
+ 1637  vim map1.cc 
+ 1638  g++ map1.cc 
+ 1639  ./a.out 
+ 1640  vim map1.cc 
+ 1641  g++ map1.cc 
+ 1642  ./a.out 
+ 1643  vim map1.cc 
+ 1644  g++ map1.cc 
+ 1645  ./a.out 
+ 1646  ll
+ 1647  vim multimap.cc
+ 1648  vim multiset.cc.cc
+ 1649  vim multiset.cc
+ 1650  vim multimap.cc
+ 1651  g++ multimap.cc
+ 1652  ./a.out 
+ 1653  ll
+ 1654  vim multiset.cc
+ 1655  ll
+ 1656  vim multimap.cc
+ 1657  ll
+ 1658  mkdir 20190412
+ 1659  cd 20190412
+ 1660  ll
+ 1661  vim ostream_iterator.cc 
+ 1662  ll
+ 1663  vim istream_iterator.cc 
+ 1664  ll
+ 1665  cd 20190412
+ 1666  ll
+ 1667  vim remove_if.cc 
+ 1668  g++ remove_if.cc 
+ 1669  ./a.out 
+ 1670  vim remove_if.cc 
+ 1671  g++ remove_if.cc 
+ 1672  ./a.out 
+ 1673  vim remove_if.cc 
+ 1674  g++ remove_if.cc 
+ 1675  ./a.out 
+ 1676  vim remove_if.cc 
+ 1677  ll
+ 1678  vim vector.cc 
+ 1679  g++ vector.cc 
+ 1680  ./a.out 
+ 1681  g++ vector.cc -std=c++11
+ 1682  ./a.out 
+ 1683  vim vector.cc 
+ 1684  ll
+ 1685  vim replace_if.cc 
+ 1686  clear
+ 1687  .[2ll
+ 1688  ll
+ 1689  vim replace_if.cc 
+ 1690  g++ replace_if.cc 
+ 1691  ./a.out 
+ 1692  vim replace_if.cc 
+ 1693  ll
+ 1694  vim bind.cc 
+ 1695  ll
+ 1696  cd 20190412
+ 1697  ll
+ 1698  cd 20190412
+ 1699  ll
+ 1700  cd ..
+ 1701  mkdir 20190413
+ 1702  cd 20190412
+ 1703  ll
+ 1704  mv remove_if.cc ~/20190413
+ 1705  cd ..
+ 1706  ll
+ 1707  cd 201904112
+ 1708  cd 20190412
+ 1709  ll
+ 1710  cd ..
+ 1711  cd 20190413
+ 1712  ll
+ 1713  vim remove_if.cc 
+ 1714  ll
+ 1715  mv remove_if.cc ~/20190412
+ 1716  cd ~/20190412
+ 1717  ll
+ 1718  mv bind.cc bind2.cc  ~/20190413
+ 1719  cd  ~/20190413
+ 1720  ll
+ 1721  vim bind.cc 
+ 1722  g++ bind.cc 
+ 1723  ./a.out 
+ 1724  vim bind.cc 
+ 1725  cd ..
+ 1726  ll
+ 1727  cd 20190413
+ 1728  ll
+ 1729  vim bind.cc 
+ 1730  g++ bind.cc 
+ 1731  ./a.out 
+ 1732  vim bind.cc 
+ 1733  g++ bind.cc 
+ 1734  ./a.out 
+ 1735  vim bind.cc 
+ 1736  g++ bind.cc 
+ 1737  ./a.out 
+ 1738  vim bind.cc 
+ 1739  ll
+ 1740  vim bind2.cc 
+ 1741  ll
+ 1742  rm a.out 
+ 1743  ll
+ 1744  cd ..
+ 1745  ll
+ 1746  cd 20190328
+ 1747  ll
+ 1748  cd ..
+ 1749  cd 20190327
+ 1750  ll
+ 1751  cd ..
+ 1752  cd 20190322
+ 1753  ll
+ 1754  vim autoReleaseSingleton1.cc 
+ 1755  vim autoReleaseSingleton2.cc 
+ 1756  vim autoReleaseSingleton3.cc 
+ 1757  ll
+ 1758  cp autoReleaseSingleton*.cc ~/20190413
+ 1759  ll
+ 1760  cd ~/20190413
+ 1761  ll
+ 1762  mdkir review
+ 1763  mkdir review
+ 1764  ll
+ 1765  mv autoReleaseSingleton*.cc review/
+ 1766  ll
+ 1767  cd review/
+ 1768  ll
+ 1769  cd ..
+ 1770  ll
+ 1771  vim templateSingleton.cc 
+ 1772  g++ templateSingleton.cc 
+ 1773  ./a.out 
+ 1774  vim templateSingleton.cc 
+ 1775  ll
+ 1776  cd ..
+ 1777  cd 20190322
+ 1778  ll
+ 1779  cd ..
+ 1780  ll
+ 1781  cd 20190321
+ 1782  ll
+ 1783  cd ..
+ 1784  cd 20190324'
+ 1785  cd 20190324
+ 1786  ll
+ 1787  cd ..
+ 1788  cd 20190320
+ 1789  ll
+ 1790  cd ..
+ 1791  find -name wordstatics
+ 1792  find -name . wordstatics
+ 1793  find -name . statics
+ 1794  find -name . Statics
+ 1795  find -name . "Statics"
+ 1796  find  . -name "Statics"
+ 1797  ll
+ 1798  cd 20190318
+ 1799  ll
+ 1800  cp wordstatics.cc ~/20190413
+ 1801  ll
+ 1802  cd ..
+ 1803  cd ~/20190413
+ 1804  ll
+ 1805  mv wordstatics.cc review/
+ 1806  ll
+ 1807  cd review/
+ 1808  ll
+ 1809  vim wordstatics.cc 
+ 1810  cd ..
+ 1811  ll
+ 1812  find -name . wordstatics.cc
+ 1813  ll
+ 1814  vim WordStatics.cc 
+ 1815  g++ WordStatics.cc 
+ 1816  ./a.out 
+ 1817  vim WordStatics.cc 
+ 1818  ll
+ 1819  cd 20190415
+ 1820  ll
+ 1821  vim TextQuery.cc 
+ 1822  vim templateHeapSort.cc 
+ 1823  ll
+ 1824  cd 20190417
+ 1825  ll
+ 1826  vim leetcode146.cc
+ 1827  vim leetcodeLRU.cc
+ 1828  ll
+ 1829  vim vector.cc 
+ 1830  vim MyVector.ccvector.cc 
+ 1831  vim MyVector.cc
+ 1832  ll
+ 1833  vim vector.cc 
+ 1834  g++ vector.cc 
+ 1835  ./a.out 
+ 1836  g++ vector.cc -std=c++11
+ 1837  ./a.out 
+ 1838  vim MyVector.cc 
+ 1839  ll
+ 1840  cd git
+ 1841  ll
+ 1842  cd ..
+ 1843  vim PracticeStage/
+ 1844  cd  PracticeStage/
+ 1845  ll
+ 1846  git pull
+ 1847  ll
+ 1848  cd 20190416
+ 1849  ll
+ 1850  cd ..
+ 1851  ll
+ 1852  cd Templates/
+ 1853  ll
+ 1854  cd ..
+ 1855  ll
+ 1856  cd InterviewProject/
+ 1857  ll
+ 1858  cd code/
+ 1859  ll
+ 1860  cd ..
+ 1861  ll
+ 1862  cd ..
+ 1863  ll
+ 1864  mkdir KillThisCode
+ 1865  ll
+ 1866  cd KillThisCode/
+ 1867  ll
+ 1868  mkdir 20191228
+ 1869  ll
+ 1870  cd 20191228
+ 1871  ll
+ 1872  cd ..
+ 1873  ll
+ 1874  cd PracticeStage
+ 1875  ll
+ 1876  cd 20190416
+ 1877  ll
+ 1878  cd ..
+ 1879  ll
+ 1880  cd 20190415
+ 1881  ll
+ 1882  cd ..
+ 1883  ll
+ 1884  vit README.md 
+ 1885  cat README.md
+ 1886  cd ..
+ 1887  ll
+ 1888  cd 20191228
+ 1889  ll
+ 1890  cd 20190218
+ 1891  ll
+ 1892  cd ..
+ 1893  cd 20191228
+ 1894  ll
+ 1895  cd ..
+ 1896  cd 20190218
+ 1897  ll
+ 1898  vim namespace3.cc 
+ 1899  ll
+ 1900  cd 20191229
+ 1901  ll
+ 1902  vim Singleton.cc
+ 1903  vim namespace3.cc 
+ 1904  ll
+ 1905  vim Singleton.cc
+ 1906  g++ Singleton.cc
+ 1907  ./a.out 
+ 1908  sudo install ssh
+ 1909  sudo apt install ssh
+ 1910  sudo apt install gcc
+ 1911  ping www.baidu.com
+ 1912  ping www.google.com
+ 1913  ls
+ 1914  ll
+ 1915  ls -l
+ 1916  la
+ 1917  ll
+ 1918  vim Singleton.cc 
+ 1919  ll
+ 1920  cd ~
+ 1921  pwd
+ 1922  cd /
+ 1923  pwd
+ 1924  ll
+ 1925  cd ~
+ 1926  ll
+ 1927  cd 20191229
+ 1928  ll
+ 1929  su test
+ 1930  ll
+ 1931  su root
+ 1932  su
+ 1933  ll
+ 1934  clear
+ 1935  ll
+ 1936  vim Student1.cc
+ 1937  g++ Student1.cc
+ 1938  ./a.out 
+ 1939  vim Student1.cc
+ 1940  g++ Student1.cc
+ 1941  ./a.out 
+ 1942  vim Student1.cc
+ 1943  g++ Student1.cc
+ 1944  ./a.out 
+ 1945  vim Student1.cc
+ 1946  g++ Student1.cc
+ 1947  ./a.out 
+ 1948  vim Student1.cc
+ 1949  g++ Student1.cc
+ 1950  ./a.out 
+ 1951  vim Student1.cc
+ 1952  g++ Student1.cc
+ 1953  ./a.out 
+ 1954  vim Student1.cc
+ 1955  g++ Student1.cc
+ 1956  ./a.out 
+ 1957  vim Student1.cc
+ 1958  g++ Student1.cc
+ 1959  ./a.out 
+ 1960  vim Student1.cc
+ 1961  ll
+ 1962  mv Student1.cc Student.cc 
+ 1963  ll
+ 1964  vim Student.cc 
+ 1965  vim String.cc
+ 1966  ll
+ 1967  cd 20190228
+ 1968  ll
+ 1969  vim string3.cc
+ 1970  ll
+ 1971  vim string3.cc
+ 1972  head string3.cc
+ 1973  hell string3.cc
+ 1974  hall string3.cc
+ 1975  head string3.cc
+ 1976  tail string3.cc
+ 1977  vim string3.cc
+ 1978  more string3.cc
+ 1979  more -f string3.cc
+ 1980  tail -f string3.cc
+ 1981  tail string3.cc
+ 1982  tail -f string3.cc
+ 1983  vim string3.cc
+ 1984  ll
+ 1985  cd ~/20191229
+ 1986  ll
+ 1987  vim String.cc 
+ 1988  cd ~
+ 1989  vim .bashrc
+ 1990  cd ~/20191229
+ 1991  ll
+ 1992  vim String.cc 
+ 1993  cd ~
+ 1994  vim tutor
+ 1995  vim vimtutor
+ 1996  cd ~/20191229
+ 1997  ll
+ 1998  vim String.cc 
+ 1999  ll
+ 2000  history
+ 2001  echo history >> 20191229.txt
+ 2002  ll
+ 2003  vim 20191229.txt
+ 2004  rm 20191229.txt
+ 2005  ll
+ 2006  cd 20191229
+ 2007  ll
+ 2008  history >> 20191229.txt

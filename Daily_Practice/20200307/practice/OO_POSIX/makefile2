@@ -1,0 +1,22 @@
+
+SRC_DIR:=./
+CC:=g++
+SRCS:= $(wildcard $(SRC_DIR)*.cc)
+BIN_EXE:=testThread.exe
+CXXFLAGS:= -g -Wall -lpthread
+OBJS = $(patsubst %.cc,%.o,$(SRCS))
+
+
+$(BIN_EXE):$(OBJS)
+	$(CC) -o  $@  $^  $(CXXFLAGS)
+
+print:
+	@echo $(OBJS)
+
+
+clean:
+	rm -rf $(OBJS) $(BIN_EXE)
+
+
+
+

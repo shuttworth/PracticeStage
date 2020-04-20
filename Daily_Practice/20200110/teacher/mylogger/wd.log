@@ -1,0 +1,32 @@
+2020-01-10 11:35:26,500 wd [WARN] hello,warn
+2020-01-10 11:35:26,506 wd [ERROR] hello,error
+2020-01-10 11:35:26,506 wd [INFO] hello,info
+2020-01-10 11:35:26,506 wd [DEBUG] hello,debug
+2020-01-10 11:38:28,592 wd [WARN] hello,warn
+2020-01-10 11:38:28,592 wd [ERROR] hello,error
+2020-01-10 11:38:28,592 wd [INFO] hello,info
+2020-01-10 11:38:28,592 wd [DEBUG] hello,debug
+2020-01-10 11:50:55,737 wd [WARN] [TestMylogger.cc:prefix:20] hello,warn
+2020-01-10 11:50:55,737 wd [ERROR] [TestMylogger.cc:prefix:20] hello,error
+2020-01-10 11:50:55,737 wd [INFO] [TestMylogger.cc:prefix:20] hello,info
+2020-01-10 11:50:55,738 wd [DEBUG] [TestMylogger.cc:prefix:20] hello,debug
+2020-01-10 11:51:08,422 wd [WARN] [TestMylogger.cc:prefix:20] hello,warn
+2020-01-10 11:51:08,423 wd [ERROR] [TestMylogger.cc:prefix:20] hello,error
+2020-01-10 11:51:08,423 wd [INFO] [TestMylogger.cc:prefix:20] hello,info
+2020-01-10 11:51:08,423 wd [DEBUG] [TestMylogger.cc:prefix:20] hello,debug
+2020-01-10 11:52:36,748 wd [WARN] [TestMylogger.cc:prefix:20] hello,warn
+2020-01-10 11:52:36,748 wd [ERROR] [TestMylogger.cc:prefix:20] hello,error
+2020-01-10 11:52:36,749 wd [INFO] [TestMylogger.cc:prefix:20] hello,info
+2020-01-10 11:52:36,749 wd [DEBUG] [TestMylogger.cc:prefix:20] hello,debug
+2020-01-10 11:54:26,229 wd [WARN] [TestMylogger.cc:test2:33] hello,warn
+2020-01-10 11:54:26,229 wd [ERROR] [TestMylogger.cc:test2:34] hello,error
+2020-01-10 11:54:26,229 wd [INFO] [TestMylogger.cc:test2:35] hello,info
+2020-01-10 11:54:26,229 wd [DEBUG] [TestMylogger.cc:test2:36] hello,debug
+2020-01-10 11:54:33,498 wd [WARN] [TestMylogger.cc:test2:33] hello,warn
+2020-01-10 11:54:33,499 wd [ERROR] [TestMylogger.cc:test2:34] hello,error
+2020-01-10 11:54:33,499 wd [INFO] [TestMylogger.cc:test2:35] hello,info
+2020-01-10 11:54:33,499 wd [DEBUG] [TestMylogger.cc:test2:36] hello,debug
+2020-01-10 11:58:50,076 wd [WARN] [TestMylogger.cc:test3:39] hello,warn
+2020-01-10 11:58:50,077 wd [ERROR] [TestMylogger.cc:test3:40] hello,error
+2020-01-10 11:58:50,077 wd [INFO] [TestMylogger.cc:test3:41] hello,ifno
+2020-01-10 11:58:50,077 wd [DEBUG] [TestMylogger.cc:test3:42] hello,debug

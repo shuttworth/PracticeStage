@@ -1,0 +1,17 @@
+2018-11-05 15:28:22,737 myCat [WARN] [testMylogger.cc-test3-38] this is warn msg 1
+2018-11-05 15:28:22,737 myCat [ERROR] [testMylogger.cc-test3-40] this is error msg
+2018-11-05 15:28:22,738 myCat [DEBUG] [testMylogger.cc-test3-41] this is debug msg
+2018-11-05 15:29:18,151 myCat [WARN] [testMylogger.cc-test3-38] this is warn msg 1 hello,world
+2018-11-05 15:29:18,152 myCat [ERROR] [testMylogger.cc-test3-40] this is error msg
+2018-11-05 15:29:18,152 myCat [DEBUG] [testMylogger.cc-test3-41] this is debug msg
+2018-11-05 15:29:45,954 myCat [WARN] [testMylogger.cc-test3-39] this is warn msg 1 hello,world 10
+2018-11-05 15:29:45,961 myCat [ERROR] [testMylogger.cc-test3-41] this is error msg
+2018-11-05 15:29:45,962 myCat [DEBUG] [testMylogger.cc-test3-42] this is debug msg
+2018-11-05 15:31:26,632 myCat [WARN] [testMylogger.cc-test3-39] this is warn msg 1 hello,world 10
+2018-11-05 15:31:26,633 myCat [INFO] [testMylogger.cc-test3-40] this is info msg
+2018-11-05 15:31:26,633 myCat [ERROR] [testMylogger.cc-test3-41] this is error msg
+2018-11-05 15:31:26,634 myCat [DEBUG] [testMylogger.cc-test3-42] this is debug msg
+2019-03-27 10:22:11,977 myCat [WARN] [testMylogger.cc-test3-33] this is warn msg 1 hello,world 10
+2019-03-27 10:22:11,978 myCat [INFO] [testMylogger.cc-test3-34] this is info msg
+2019-03-27 10:22:11,978 myCat [ERROR] [testMylogger.cc-test3-35] this is error msg
+2019-03-27 10:22:11,978 myCat [DEBUG] [testMylogger.cc-test3-36] this is debug msg
