@@ -1,0 +1,2 @@
+learning_launch:learning_parameter:learning_service:learning_tf:learning_topic:test_pkg
+-DCATKIN_DEVEL_PREFIX=/home/wade/catkin_ws1/devel -DCMAKE_INSTALL_PREFIX=/home/wade/catkin_ws1/install -G Unix Makefiles
